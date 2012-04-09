@@ -7,5 +7,5 @@ def push(files)
   end
 end
 task :default do
- push(['index.html', 'style.css'])
+ push(['index.html', 'style.css','images/header.jpg','images/footer.jpg'])
 end

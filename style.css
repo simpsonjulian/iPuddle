@@ -1,6 +1,6 @@
 #header {
     padding: 10px;
-    background: #fdd;
+    background-image: url('images/header.jpg');
     font-family: Helvetica;
     font-size: large;
     font-style: italic;
@@ -10,27 +10,25 @@
     width: 1080px;
     margin-left: auto;
     margin-right: auto;
+    background: white;
 }
 
 #content-1 {
     float: left;
     width: 340px;
     padding: 10px;
-    background: #bfb;
 }
 
 #content-2-1 {
     float: left;
     width: 340px;
     padding: 10px;
-    background: #ddf;
 }
 
 #content-2-2 {
     float: right;
     width: 340px;
     padding: 10px;
-    background: #dff;
 }
 
 .widget {
@@ -47,7 +45,7 @@
 #footer {
     clear: both;
     padding: 10px;
-    background: #ff9;
+    background-image: url('images/footer.jpg');
     font-family: Helvetica;
     font-size: large;
     font-style: italic;
