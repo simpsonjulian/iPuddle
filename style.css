@@ -2,8 +2,10 @@
     padding: 10px;
     background-image: url('images/header.jpg');
     font-family: Helvetica;
-    font-size: large;
+    height: 140px;
+    font-size: larger;
     font-style: italic;
+    color: white;
 }
 
 #main {
@@ -46,7 +48,10 @@
     clear: both;
     padding: 10px;
     background-image: url('images/footer.jpg');
+    height: 140px;
     font-family: Helvetica;
-    font-size: large;
+    vertical-align: bottom;
+    font-size: larger;
     font-style: italic;
+    color: white;
 }
